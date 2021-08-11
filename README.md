@@ -8,3 +8,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 This is a good start for new web developers!
+
+## Copyright
+
+Copyright 2021 Nicholas Makova
