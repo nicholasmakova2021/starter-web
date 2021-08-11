@@ -9,6 +9,11 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 This is a good start for new web developers!
 
+## How to Contribute
+
+Please fork this repository and then issue pull requests for
+review.
+
 ## Copyright
 
 Copyright 2021 Nicholas Makova
