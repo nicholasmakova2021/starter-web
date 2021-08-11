@@ -17,4 +17,4 @@ review.
 
 ## Copyright
 
-Copyright 2021 Nicholas Makova
+Copyright 2021 Nicholas Makova. All rights reserved
