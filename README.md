@@ -1,6 +1,6 @@
 # Starter Web Repo
 This is a simple web project to learn GIt.
-Adding a line about rebasing. More changes from myfeature branch too.
+Adding a line about rebasing. updating for emergency fix after stashing.
 
 # Introduction
 This repository is for showing how Git and GitHub work
